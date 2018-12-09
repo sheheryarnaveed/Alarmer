@@ -48,6 +48,4 @@ Run the program:<br>
   $ python alarm.py -i [NETWORK INTERFACE]
   ```
 
-<img src="https://github.com/sheheryarnaveed/Live-Temperature-Reporting-ChatBot/blob/master/IMG_20180110_142712.png" width="320" height="550">
 
-![Image1](https://cloud.githubusercontent.com/assets/173/5562290/48e24654-8ddf-11e4-8fe7-735b0ce3a0d3.png)
