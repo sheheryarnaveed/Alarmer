@@ -48,6 +48,6 @@ Run the program:<br>
   $ python alarm.py -i [NETWORK INTERFACE]
   ```
 
-
+### Screenshots
 <img src="https://github.com/sheheryarnaveed/Alarmer/blob/master/screenshots/1.png" width="580" height="400">
 <img src="https://github.com/sheheryarnaveed/Alarmer/blob/master/screenshots/2.png" width="580" height="400">
